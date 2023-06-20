@@ -1,6 +1,6 @@
 {
     "name": "@bed-and-breakfast/class-validator-extended",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Extends class-validator with additional validators",
     "private": false,
     "engines": {
