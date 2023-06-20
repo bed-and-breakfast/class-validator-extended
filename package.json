@@ -1,24 +1,27 @@
 {
-    "name": "@bed-and-breakfast/templates-open-source",
-    "version": "4.2.18",
-    "description": "Bed & Breakfast Open Source Template",
+    "name": "@bed-and-breakfast/class-validator-extended",
+    "version": "0.0.0",
+    "description": "Extends class-validator with additional validators",
     "private": false,
     "engines": {
         "node": ">=18.0.0"
     },
     "repository": {
-        "type": "git",
-        "url": "https://github.com/bed-and-breakfast/templates-open-source.git"
+        "url": "https://github.com/bed-and-breakfast/class-validator-extended.git"
     },
-    "bugs": "https://github.com/bed-and-breakfast/templates-open-source/issues",
-    "homepage": "https://github.com/bed-and-breakfast/templates-open-source",
+    "bugs": "https://github.com/bed-and-breakfast/class-validator-extended/issues",
+    "homepage": "https://github.com/bed-and-breakfast/class-validator-extended",
     "author": "Bed & Breakfast",
     "keywords": [
         "bed",
         "breakfast",
-        "package",
-        "template",
-        "open source"
+        "class",
+        "validator",
+        "validation",
+        "decorators",
+        "typescript",
+        "extended",
+        "extension"
     ],
     "main": "lib/cjs/index.js",
     "module": "lib/esm/index.js",
